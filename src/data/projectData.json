@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "ReginYoga",
+        "path": "projectyoga",
+        "description": "A single page personal website made for a briliant yoga instructor, built with React and Bootstrap.",
+        "imgUrl": "./src/images/yoga-img.png",
+        "link": "https://rokoworlds.github.io/reginyoga/",
+        "githubLink": "https://github.com/rokoworlds/reginyoga"
+        
+    },
+    {
+        "id": 2,
+        "title": "Reddit clone",
+        "path": "projectreddit",
+        "description": "A simple Reddit clone build with React, Next.js, Firebase v9, Chakra UI, TypeScript, Recoil",
+        "imgUrl": "./src/images/reddit-img.png",
+        "link": "https://reddit-clone-app-drab.vercel.app/",
+        "githubLink": "https://github.com/rokoworlds/reddit-clone-app"
+
+    },
+    {
+        "id": 3,
+        "title": "Fruitstore",
+        "path": "projectstore",
+        "description": "E-commerce cart page, built with React, TypeScript and Tailwind.",
+        "imgUrl": "./src/images/store-img.png",
+        "link": "https://rokoworlds.github.io/fruitstore/#/",
+        "githubLink": "https://github.com/rokoworlds/fruitstore"
+
+    },
+    {
+        "id": 4,
+        "title": "Jottings",
+        "path": "projectnotes",
+        "description": "Note App, built with React, TypeScript and Tailwind.",
+        "imgUrl": "./src/images/notes-img.png",
+        "link": "https://rokoworlds.github.io/jottings/",
+        "githubLink": "https://github.com/rokoworlds/jottings"
+
+    }
+]
