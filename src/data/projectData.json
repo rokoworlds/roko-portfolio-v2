@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "ReginYoga",
+        "title": "Personal Website",
         "path": "projectyoga",
-        "description": "A single page personal website made for a briliant yoga instructor, built with React and Bootstrap.",
-        "imgUrl": "./imgs/yoga-img.png",
+        "description": "A single page personal website made for a yoga instructor, built with React and Bootstrap.",
+        "imgUrl": "./imgs/yp-main.png",
         "link": "https://rokoworlds.github.io/reginyoga/",
         "githubLink": "https://github.com/rokoworlds/reginyoga"
         
